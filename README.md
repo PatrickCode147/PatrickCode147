@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=IRON+MAN;G%C3%AAnio,+Bilion%C3%A1rio,+Playboy e +Filantropo." alt="Iron Man typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=IRON+MAN;G%C3%AAnio,+Bilion%C3%A1rio,+Playboy e +Filantropo." alt="Iron Man typing animations" />
 </div>
 
 ---
